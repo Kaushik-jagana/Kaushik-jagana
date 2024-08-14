@@ -2,7 +2,9 @@
 
 ### Glad to see you here!
 
-I am a MME undergraduate at IIT Patna who loves programming, speaking, travelling and exploring the wonders of human mind.
+I am a Software Engineer at Brane Enterprises who loves programming, travelling and exploring the wonders of human mind.
+I am mostly open to any tech stack and eager to learn any new languages, new frameworks and explore them. 
+Though my area of interest is in Full Stack development and I also have fun doing competitive programing. I like to explore new fields of study and new things.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
