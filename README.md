@@ -18,8 +18,8 @@ Though my area of interest is in Full Stack development and I also have fun doin
 - 🚀 I’m also actively involved in competitive progamming.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: jaganakaushik@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1vDihYvCeai5ndYr53plyhdRWDXKsjwKi/view?usp=share_link).
-- 👨🏻‍💻 [Website](https://kaushikportfolio.netlify.app/).
+- 📝 [Resume](https://drive.google.com/file/d/12Oz3wJaouhnu2oJWgKRHsWo-67LDsdSz/view?usp=sharing).
+- 👨🏻‍💻 [Website](https://kaushik-jagana.netlify.app/).
 
 <br>
 <br>
